@@ -2,6 +2,8 @@
 
 How to deploy a svelte- app on GitHub Pages.
 
+[wiki-article](https://github.com/henrietteBaum/speaking-notes-svelte/wiki/deploy)
+
 https://henriettebaum.github.io/svelte-page/
 
 ## svelte app
